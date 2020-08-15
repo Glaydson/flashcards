@@ -1,0 +1,35 @@
+type: code
+custom_name: Are siblings?
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Siblings {
+
+        public static boolean areSiblings(File f1, File f2) {
+            // implement me
+        }
+    }
+  learner_created: false
+- name: src/WordCount.java
+  visible: true
+  learner_created: true
+- name: src/teste.txt
+  visible: true
+  learner_created: true
+- name: src/teste2.txt
+  visible: true
+  learner_created: true
+- name: src/Population.java
+  visible: true
+  learner_created: true
+- name: src/population.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8095
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8095">JetBrains
+    Academy</a></html>
+  time: Mon, 10 Aug 2020 18:58:03 UTC
+record: -1

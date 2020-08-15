@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+- name: src/Teste.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/3654
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3654">JetBrains
+    Academy</a></html>
+  time: Wed, 12 Aug 2020 01:20:06 UTC
+record: -1

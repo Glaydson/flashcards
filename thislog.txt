@@ -1,0 +1,25 @@
+Input the action (add, remove, import, export, ask, exit, log): 
+add
+The card:
+jovem
+The definition: 
+pan
+The pair "jovem":"pan" has been added.
+Input the action (add, remove, import, export, ask, exit, log): 
+add
+The card:
+velha
+The definition: 
+old
+The pair "velha":"old" has been added.
+Input the action (add, remove, import, export, ask, exit, log): 
+ask
+How many times to ask?
+1
+Print the definition of "jovem":
+pan
+Correct!
+Input the action (add, remove, import, export, ask, exit, log): 
+log
+File name:
+thislog.txt
